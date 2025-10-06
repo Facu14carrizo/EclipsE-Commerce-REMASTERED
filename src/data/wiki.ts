@@ -1330,7 +1330,7 @@ Hale-Bopp no regresará al sistema solar interior hasta aproximadamente el año 
     id: '36',
     title: 'El Cometa Shoemaker-Levy 9: Colisión con Júpiter',
     category: 'comets',
-    image: '/src/assets/astrobjetos/El Cometa Shoemaker-Levy 9 Colisión con Júpiter.jpg',
+    image: '/src/assets/astrobjetos/El Cometa Shoemaker-Levy 9 Colision con Jupiter.jpg',
     excerpt: 'Presencia el histórico impacto de un cometa fragmentado contra Júpiter en 1994.',
     content: `El Cometa Shoemaker-Levy 9 (D/1993 F2) se convirtió en el primer cometa observado colisionando con un planeta cuando impactó Júpiter en julio de 1994.
 
