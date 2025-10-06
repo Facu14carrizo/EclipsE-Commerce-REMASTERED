@@ -6,7 +6,7 @@ export const wikiArticles: WikiArticle[] = [
     id: '1',
     title: 'Los Agujeros Negros: Gigantes Invisibles del Cosmos',
     category: 'blackholes',
-    image: '/src/assets/astrobjetos/Júpiter El Gigante Gaseoso del Sistema Solar.jpg',
+    image: '/assets/astrobjetos/Júpiter El Gigante Gaseoso del Sistema Solar.jpg',
     excerpt: 'Descubre los misterios de los agujeros negros, regiones del espacio-tiempo donde la gravedad es tan intensa que nada puede escapar.',
     content: `Los agujeros negros son regiones del espacio-tiempo donde la curvatura gravitacional es tan extrema que nada, ni siquiera la luz, puede escapar una vez que cruza el horizonte de eventos.
 
@@ -42,7 +42,7 @@ Stephen Hawking predijo que los agujeros negros emiten radiación debido a efect
     id: '2',
     title: 'Sagitario A*: El Agujero Negro de Nuestra Galaxia',
     category: 'blackholes',
-    image: '/src/assets/astrobjetos/Saturno El Señor de los Anillos.jpg',
+    image: '/assets/astrobjetos/Saturno El Señor de los Anillos.jpg',
     excerpt: 'Explora el agujero negro supermasivo que reside en el centro de la Vía Láctea y su influencia en nuestra galaxia.',
     content: `Sagitario A* (Sgr A*) es el agujero negro supermasivo ubicado en el centro de nuestra galaxia, la Vía Láctea. Con una masa equivalente a 4.1 millones de soles, este gigante invisible gobierna el movimiento de miles de millones de estrellas.
 
@@ -68,7 +68,7 @@ Sgr A* influye en la estructura y evolución de toda la Vía Láctea, regulando 
     id: '3',
     title: 'M87*: El Primer Agujero Negro Fotografiado',
     category: 'blackholes',
-    image: '/src/assets/astrobjetos/Mercurio El Planeta Más Cercano al Sol.jpg',
+    image: '/assets/astrobjetos/Mercurio El Planeta Más Cercano al Sol.jpg',
     excerpt: 'La histórica primera imagen de un agujero negro, capturada en la galaxia M87, revolucionó nuestra comprensión del cosmos.',
     content: `M87* es el agujero negro supermasivo en el centro de la galaxia elíptica M87, famoso por ser el primer agujero negro del que se obtuvo una imagen directa.
 
@@ -96,7 +96,7 @@ El jet de plasma que emerge de M87* viaja a velocidades cercanas a la luz y es v
     id: '4',
     title: 'Júpiter: El Gigante Gaseoso del Sistema Solar',
     category: 'planets',
-    image: '/src/assets/astrobjetos/Venus El Infierno Celestial.webp',
+    image: '/assets/astrobjetos/Venus El Infierno Celestial.webp',
     excerpt: 'Explora el planeta más grande de nuestro sistema solar, con sus tormentas gigantes, lunas fascinantes y papel protector.',
     content: `Júpiter, el quinto planeta desde el Sol, es el gigante gaseoso más grande de nuestro sistema solar. Su masa es mayor que la de todos los demás planetas combinados.
 
@@ -131,7 +131,7 @@ Júpiter es fácilmente observable con telescopios pequeños. Incluso con binocu
     id: '5',
     title: 'Saturno: El Señor de los Anillos',
     category: 'planets',
-    image: '/src/assets/astrobjetos/Urano El Gigante Helado Inclinado.webp',
+    image: '/assets/astrobjetos/Urano El Gigante Helado Inclinado.webp',
     excerpt: 'Descubre la majestuosidad de Saturno, sus espectaculares anillos y sus fascinantes lunas heladas.',
     content: `Saturno, el sexto planeta desde el Sol, es famoso por su impresionante sistema de anillos que lo convierte en uno de los objetos más hermosos del sistema solar.
 
@@ -168,7 +168,7 @@ Saturno es visible a simple vista y sus anillos pueden observarse con un telesco
     id: '6',
     title: 'Marte: El Planeta Rojo',
     category: 'planets',
-    image: '/src/assets/astrobjetos/Neptuno El Gigante Azul Ventoso.webp',
+    image: '/assets/astrobjetos/Neptuno El Gigante Azul Ventoso.webp',
     excerpt: 'Explora Marte, nuestro vecino rojizo, sus características únicas y la búsqueda de vida pasada y presente.',
     content: `Marte, conocido como el "Planeta Rojo" debido a su característico color causado por el óxido de hierro en su superficie, es el cuarto planeta desde el Sol y uno de los más estudiados.
 
@@ -210,7 +210,7 @@ Las agencias espaciales planean misiones tripuladas a Marte en las próximas dé
     id: '7',
     title: 'Venus: El Infierno Celestial',
     category: 'planets',
-    image: '/src/assets/astrobjetos/Sirio La Estrella Más Brillante.webp',
+    image: '/assets/astrobjetos/Sirio La Estrella Más Brillante.webp',
     excerpt: 'Descubre Venus, el planeta más caliente del sistema solar, envuelto en nubes de ácido sulfúrico.',
     content: `Venus, el segundo planeta desde el Sol, es conocido como el "lucero del alba" o "lucero vespertino" debido a su brillo excepcional en el cielo terrestre.
 
@@ -248,7 +248,7 @@ Nuevas misiones están planeadas para estudiar la atmósfera y superficie de Ven
     id: '8',
     title: 'Mercurio: El Planeta Más Cercano al Sol',
     category: 'planets',
-    image: '/src/assets/astrobjetos/Betelgeuse La Supergigante Roja de Orión.jpg',
+    image: '/assets/astrobjetos/Betelgeuse La Supergigante Roja de Orión.jpg',
     excerpt: 'Explora el pequeño y extremo mundo de Mercurio, con sus temperaturas extremas y órbita peculiar.',
     content: `Mercurio es el planeta más pequeño y más cercano al Sol en nuestro sistema solar, con condiciones extremas y características únicas.
 
@@ -282,7 +282,7 @@ Mercurio es difícil de observar debido a su proximidad al Sol, siendo visible s
     id: '9',
     title: 'Urano: El Gigante Helado Inclinado',
     category: 'planets',
-    image: '/src/assets/astrobjetos/Rigel La Supergigante Azul de Orión.jpg',
+    image: '/assets/astrobjetos/Rigel La Supergigante Azul de Orión.jpg',
     excerpt: 'Descubre las peculiaridades de Urano, el planeta que rueda de lado con sus anillos verticales y lunas heladas.',
     content: `Urano es el séptimo planeta desde el Sol y el tercero más grande del sistema solar, conocido por su rotación única y composición helada.
 
@@ -321,7 +321,7 @@ La única nave que ha visitado Urano fue Voyager 2 en 1986.`,
     id: '10',
     title: 'Neptuno: El Gigante Azul Ventoso',
     category: 'planets',
-    image: '/src/assets/astrobjetos/Polaris La Estrella Polar.jpg',
+    image: '/assets/astrobjetos/Polaris La Estrella Polar.jpg',
     excerpt: 'Explora Neptuno, el planeta más distante, con los vientos más fuertes del sistema solar y su gran luna Tritón.',
     content: `Neptuno es el octavo y más distante planeta del sistema solar, un gigante helado con características atmosféricas extremas.
 
@@ -361,7 +361,7 @@ Solo Voyager 2 ha visitado Neptuno, en 1989, proporcionando la mayoría de nuest
     id: '11',
     title: 'Betelgeuse: La Supergigante Roja de Orión',
     category: 'stars',
-    image: '/src/assets/astrobjetos/Vega La Estrella del Norte del Futuro.jpg',
+    image: '/assets/astrobjetos/Vega La Estrella del Norte del Futuro.jpg',
     excerpt: 'Explora una de las estrellas más grandes conocidas, candidata a explotar como supernova.',
     content: `Betelgeuse es una supergigante roja ubicada en la constelación de Orión, una de las estrellas más grandes y brillantes conocidas.
 
@@ -399,7 +399,7 @@ El estudio de Betelgeuse nos ayuda a entender la evolución de las estrellas mas
     id: '12',
     title: 'Sirio: La Estrella Más Brillante',
     category: 'stars',
-    image: '/src/assets/astrobjetos/Sagitario A El Agujero Negro de Nuestra Galaxia.jpg',
+    image: '/assets/astrobjetos/Sagitario A El Agujero Negro de Nuestra Galaxia.jpg',
     excerpt: 'Descubre la estrella más brillante del cielo nocturno y su compañera enana blanca.',
     content: `Sirio, también conocida como la "Estrella del Can", es la estrella más brillante del cielo nocturno terrestre, ubicada en la constelación del Can Mayor.
 
@@ -437,7 +437,7 @@ Sirio es fácilmente visible desde ambos hemisferios y a menudo parpadea con col
     id: '13',
     title: 'Polaris: La Estrella Polar',
     category: 'stars',
-    image: '/src/assets/astrobjetos/M87 El Primer Agujero Negro Fotografiado.jpg',
+    image: '/assets/astrobjetos/M87 El Primer Agujero Negro Fotografiado.jpg',
     excerpt: 'Conoce la estrella que ha guiado a navegantes durante siglos y su importancia en la navegación.',
     content: `Polaris, conocida como la Estrella Polar o Estrella del Norte, es una supergigante amarilla ubicada muy cerca del polo norte celeste.
 
@@ -475,7 +475,7 @@ En unos 12,000 años, la estrella Vega será la nueva estrella polar debido a la
     id: '14',
     title: 'Rigel: La Supergigante Azul de Orión',
     category: 'stars',
-    image: '/src/assets/astrobjetos/Los Agujeros Negros Gigantes Invisibles del Cosmos.jfif',
+    image: '/assets/astrobjetos/Los Agujeros Negros Gigantes Invisibles del Cosmos.jfif',
     excerpt: 'Explora la estrella más luminosa de Orión, una supergigante azul extremadamente caliente y masiva.',
     content: `Rigel es una supergigante azul ubicada en la constelación de Orión, siendo la estrella más luminosa de esta constelación y una de las más brillantes del cielo nocturno.
 
@@ -509,7 +509,7 @@ Rigel sirve como prototipo para entender la evolución de estrellas muy masivas 
     id: '15',
     title: 'Vega: La Estrella del Norte del Futuro',
     category: 'stars',
-    image: '/src/assets/astrobjetos/La Vía Láctea Nuestro Hogar Galáctico.jpg',
+    image: '/assets/astrobjetos/La Vía Láctea Nuestro Hogar Galáctico.jpg',
     excerpt: 'Descubre Vega, la quinta estrella más brillante del cielo y futura estrella polar.',
     content: `Vega es una estrella de la secuencia principal ubicada en la constelación de Lira, siendo la quinta estrella más brillante del cielo nocturno.
 
@@ -547,7 +547,7 @@ Vega es fácilmente visible en el hemisferio norte durante el verano y es parte 
     id: '16',
     title: 'Proxima Centauri: Nuestra Vecina Más Cercana',
     category: 'stars',
-    image: '/src/assets/astrobjetos/Proxima Centauri Nuestra Vecina Más Cercana.jpg',
+    image: '/assets/astrobjetos/Proxima Centauri Nuestra Vecina Más Cercana.jpg',
     excerpt: 'Explora la estrella más cercana al Sol y su planeta potencialmente habitable.',
     content: `Proxima Centauri es una enana roja ubicada a 4.24 años luz de distancia, siendo la estrella más cercana al Sistema Solar.
 
@@ -587,7 +587,7 @@ Aunque es la estrella más cercana, Proxima Centauri es demasiado débil para se
     id: '17',
     title: 'La Nebulosa de Orión: Guardería Estelar',
     category: 'nebulae',
-    image: '/src/assets/astrobjetos/La Nebulosa de Orión Guardería Estelar.png',
+    image: '/assets/astrobjetos/La Nebulosa de Orión Guardería Estelar.png',
     excerpt: 'Sumérgete en el estudio de una de las nebulosas más brillantes y fotografiadas del cielo nocturno.',
     content: `La Nebulosa de Orión (M42) es una nebulosa de emisión situada en la constelación de Orión. Es una de las nebulosas más brillantes visibles a simple vista en el cielo nocturno.
 
@@ -625,7 +625,7 @@ El estudio de M42 ha proporcionado información crucial sobre los procesos de fo
     id: '18',
     title: 'La Nebulosa del Cangrejo: Remanente de Supernova',
     category: 'nebulae',
-    image: '/src/assets/astrobjetos/La Nebulosa del Cangrejo Remanente de Supernova.jpg',
+    image: '/assets/astrobjetos/La Nebulosa del Cangrejo Remanente de Supernova.jpg',
     excerpt: 'Explora los restos de una explosión estelar observada por astrónomos chinos en el año 1054.',
     content: `La Nebulosa del Cangrejo (M1) es el remanente de una supernova que fue observada por astrónomos chinos, árabes y nativos americanos en el año 1054 d.C.
 
@@ -701,7 +701,7 @@ M16 es visible con telescopios pequeños, aunque los detalles de los pilares req
     id: '20',
     title: 'La Nebulosa de la Roseta: Flor Cósmica',
     category: 'nebulae',
-    image: '/src/assets/astrobjetos/Los Cometas Mensajeros del Sistema Solar Primitivo.jpg',
+    image: '/assets/astrobjetos/Los Cometas Mensajeros del Sistema Solar Primitivo.jpg',
     excerpt: 'Explora esta hermosa nebulosa de emisión que se asemeja a una rosa cósmica en la constelación del Unicornio.',
     content: `La Nebulosa de la Roseta (NGC 2237) es una nebulosa de emisión ubicada en la constelación Monoceros, conocida por su forma distintiva que recuerda a una rosa.
 
@@ -741,7 +741,7 @@ El estudio de esta nebulosa ayuda a comprender cómo las estrellas masivas afect
     id: '21',
     title: '1I/ʻOumuamua: El Primer Visitante Interestelar',
     category: 'comets',
-    image: '/src/assets/astrobjetos/1IOumuamua El Primer Visitante Interestelar.jpg',
+    image: '/assets/astrobjetos/1IOumuamua El Primer Visitante Interestelar.jpg',
     excerpt: 'El primer objeto interestelar confirmado que visitó nuestro sistema solar, con características únicas que desafiaron nuestro entendimiento.',
     content: `1I/ʻOumuamua es un objeto interestelar que fue descubierto el 19 de octubre de 2017 por el telescopio Pan-STARRS1 en Hawái. Su nombre significa "explorador" o "mensajero" en hawaiano, y fue el primer objeto confirmado de origen interestelar que visitó nuestro sistema solar.
 
@@ -772,7 +772,7 @@ Los análisis de su trayectoria sugieren que ʻOumuamua proviene de la direcció
     id: '22',
     title: '2I/Borisov: El Cometa Interestelar',
     category: 'comets',
-    image: '/src/assets/astrobjetos/2IBorisov El Cometa Interestelar.png',
+    image: '/assets/astrobjetos/2IBorisov El Cometa Interestelar.png',
     excerpt: 'El segundo visitante interestelar confirmado, un cometa que nos mostró similitudes sorprendentes con los cometas de nuestro sistema solar.',
     content: `2I/Borisov fue descubierto el 30 de agosto de 2019 por el astrónomo aficionado Gennady Borisov desde Crimea. Este objeto se convirtió en el segundo visitante interestelar confirmado en nuestro sistema solar, pero a diferencia de ʻOumuamua, Borisov mostró todas las características típicas de un cometa.
 
@@ -807,7 +807,7 @@ La visita de Borisov confirmó que los objetos interestelares son detectables y 
     id: '23',
     title: 'C/2019 L3 ATLAS: ¿El Tercer Visitante Interestelar?',
     category: 'comets',
-    image: '/src/assets/astrobjetos/3IATLAS El Tercer Visitante Interestelar.png',
+    image: '/assets/astrobjetos/3IATLAS El Tercer Visitante Interestelar.png',
     excerpt: 'Un objeto misterioso que podría ser el tercer visitante interestelar, desafiando nuestras expectativas sobre estos raros fenómenos cósmicos.',
     content: `C/2019 L3 ATLAS fue descubierto el 2 de junio de 2019 por el sistema de vigilancia ATLAS (Asteroid Terrestrial-impact Last Alert System). Inicialmente clasificado como un cometa de período largo, análisis posteriores de su órbita sugieren que podría ser de origen interestelar, lo que lo convertiría en el tercer objeto de este tipo detectado.
 
@@ -891,7 +891,7 @@ La nebulosa continuará expandiéndose y desvaneciéndose durante los próximos 
     id: '25',
     title: 'La Nebulosa de la Cabeza de Caballo: Silueta Cósmica',
     category: 'nebulae',
-    image: '/src/assets/astrobjetos/La Nebulosa de la Cabeza de Caballo Silueta Cósmica.jpg',
+    image: '/assets/astrobjetos/La Nebulosa de la Cabeza de Caballo Silueta Cósmica.jpg',
     excerpt: 'Explora una de las nebulosas oscuras más famosas, con su distintiva forma de cabeza de caballo.',
     content: `La Nebulosa de la Cabeza de Caballo (Barnard 33) es una nebulosa oscura ubicada cerca de la estrella Alnitak en la constelación de Orión.
 
@@ -1021,7 +1021,7 @@ El halo contiene cúmulos globulares antiguos y está dominado por materia oscur
     id: '28',
     title: 'Las Nubes de Magallanes: Galaxias Satélite',
     category: 'galaxies',
-    image: '/src/assets/astrobjetos/Las Nubes de Magallanes Galaxias Satélite.jpg',
+    image: '/assets/astrobjetos/Las Nubes de Magallanes Galaxias Satélite.jpg',
     excerpt: 'Descubre las dos galaxias enanas que orbitan la Vía Láctea, visibles desde el hemisferio sur.',
     content: `Las Nubes de Magallanes son dos galaxias enanas irregulares que orbitan la Vía Láctea: la Gran Nube de Magallanes (LMC) y la Pequeña Nube de Magallanes (SMC).
 
@@ -1063,7 +1063,7 @@ Las Nubes de Magallanes sirven como laboratorios para estudiar la formación est
     id: '29',
     title: 'La Galaxia del Triángulo: M33',
     category: 'galaxies',
-    image: '/src/assets/astrobjetos/La Galaxia del Triángulo M33.jpg',
+    image: '/assets/astrobjetos/La Galaxia del Triángulo M33.jpg',
     excerpt: 'Explora la tercera galaxia más grande del Grupo Local, conocida por su estructura espiral abierta.',
     content: `La Galaxia del Triángulo (M33) es una galaxia espiral ubicada en la constelación del Triángulo, siendo la tercera galaxia más grande del Grupo Local.
 
@@ -1089,7 +1089,7 @@ M33 orbita alrededor del sistema Vía Láctea-Andrómeda y se cree que eventualm
     id: '30',
     title: 'La Galaxia del Sombrero: M104',
     category: 'galaxies',
-    image: '/src/assets/astrobjetos/La Galaxia del Sombrero M104.jpg',
+    image: '/assets/astrobjetos/La Galaxia del Sombrero M104.jpg',
     excerpt: 'Descubre esta galaxia espiral vista de canto, famosa por su apariencia de sombrero mexicano.',
     content: `La Galaxia del Sombrero (M104) es una galaxia espiral vista casi de canto, ubicada en la constelación de Virgo.
 
@@ -1171,7 +1171,7 @@ Visible con telescopios medianos, mostrando la estructura peculiar y las colas c
     id: '32',
     title: 'El Cometa Halley: El Visitante Periódico',
     category: 'comets',
-    image: '/src/assets/astrobjetos/El Cometa Halley El Visitante Periódico.jpeg',
+    image: '/assets/astrobjetos/El Cometa Halley El Visitante Periódico.jpeg',
     excerpt: 'Explora el cometa más famoso de la historia, visible desde la Tierra cada 76 años.',
     content: `El Cometa Halley (1P/Halley) es el cometa más famoso y mejor documentado de la historia, conocido por sus apariciones regulares cada 75-76 años.
 
@@ -1247,7 +1247,7 @@ NEOWISE no regresará al sistema solar interior hasta aproximadamente el año 87
     id: '34',
     title: 'Los Cometas: Mensajeros del Sistema Solar Primitivo',
     category: 'comets',
-    image: '/src/assets/astrobjetos/Los Cometas Mensajeros del Sistema Solar Primitivo.jpg',
+    image: '/assets/astrobjetos/Los Cometas Mensajeros del Sistema Solar Primitivo.jpg',
     excerpt: 'Comprende la naturaleza y origen de los cometas, cápsulas del tiempo del sistema solar primitivo.',
     content: `Los cometas son cuerpos celestes compuestos de hielo, polvo y material rocoso que se originaron en las regiones frías del sistema solar exterior.
 
@@ -1288,7 +1288,7 @@ Los cometas pueden haber contribuido al suministro de agua y compuestos orgánic
     id: '35',
     title: 'El Cometa Hale-Bopp: El Gran Cometa de los 90',
     category: 'comets',
-    image: '/src/assets/astrobjetos/El Cometa Hale-Bopp El Gran Cometa de los 90.webp',
+    image: '/assets/astrobjetos/El Cometa Hale-Bopp El Gran Cometa de los 90.webp',
     excerpt: 'Revive la aparición del espectacular cometa que dominó los cielos durante 18 meses en los años 90.',
     content: `El Cometa Hale-Bopp (C/1995 O1) fue uno de los cometas más brillantes y ampliamente observados del siglo XX.
 
@@ -1330,7 +1330,7 @@ Hale-Bopp no regresará al sistema solar interior hasta aproximadamente el año 
     id: '36',
     title: 'El Cometa Shoemaker-Levy 9: Colisión con Júpiter',
     category: 'comets',
-    image: '/src/assets/astrobjetos/El Cometa Shoemaker-Levy 9 Colision con Jupiter.jpg',
+    image: '/assets/astrobjetos/El Cometa Shoemaker-Levy 9 Colision con Jupiter.jpg',
     excerpt: 'Presencia el histórico impacto de un cometa fragmentado contra Júpiter en 1994.',
     content: `El Cometa Shoemaker-Levy 9 (D/1993 F2) se convirtió en el primer cometa observado colisionando con un planeta cuando impactó Júpiter en julio de 1994.
 

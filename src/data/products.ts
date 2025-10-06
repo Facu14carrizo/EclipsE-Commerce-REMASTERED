@@ -9,7 +9,7 @@ export const products: Product[] = [
     type: 'compound',
     price: 599,
     originalPrice: 699,
-    image: '/src/assets/telescopios/Celestron NexStar 127SLT.webp',
+    image: '/assets/telescopios/Celestron NexStar 127SLT.webp',
     description: 'Telescopio computarizado compacto perfecto para principiantes y astrónomos intermedios.',
     specifications: {
       aperture: '127mm',
@@ -28,7 +28,7 @@ export const products: Product[] = [
     brand: 'Orion',
     type: 'reflector',
     price: 449,
-    image: '/src/assets/telescopios/Orion SkyQuest XT8.webp',
+    image: '/assets/telescopios/Orion SkyQuest XT8.webp',
     description: 'Telescopio reflector Dobsoniano de 8" ideal para observación de espacio profundo.',
     specifications: {
       aperture: '203mm',
@@ -47,7 +47,7 @@ export const products: Product[] = [
     brand: 'Meade',
     type: 'compound',
     price: 799,
-    image: '/src/assets/telescopios/Meade ETX-90.webp',
+    image: '/assets/telescopios/Meade ETX-90.webp',
     description: 'Telescopio Maksutov-Cassegrain ultra portátil con montura GOTO.',
     specifications: {
       aperture: '90mm',
@@ -66,7 +66,7 @@ export const products: Product[] = [
     brand: 'Sky-Watcher',
     type: 'refractor',
     price: 329,
-    image: '/src/assets/telescopios/Sky-Watcher StarTravel 120.jpg',
+    image: '/assets/telescopios/Sky-Watcher StarTravel 120.jpg',
     description: 'Telescopio refractor corto ideal para astrofotografía y observación de gran campo.',
     specifications: {
       aperture: '120mm',
@@ -85,7 +85,7 @@ export const products: Product[] = [
     brand: 'Celestron',
     type: 'reflector',
     price: 189,
-    image: '/src/assets/telescopios/Celestron PowerSeeker 127EQ.jpg',
+    image: '/assets/telescopios/Celestron PowerSeeker 127EQ.jpg',
     description: 'Telescopio reflector newtoniano con montura ecuatorial manual, perfecto para principiantes.',
     specifications: {
       aperture: '127mm',
@@ -104,7 +104,7 @@ export const products: Product[] = [
     brand: 'Orion',
     type: 'reflector',
     price: 199,
-    image: '/src/assets/telescopios/Orion StarBlast 4.5.webp',
+    image: '/assets/telescopios/Orion StarBlast 4.5.webp',
     description: 'Telescopio reflector compacto con diseño de mesa, ideal para observación lunar y planetaria.',
     specifications: {
       aperture: '114mm',
@@ -123,7 +123,7 @@ export const products: Product[] = [
     brand: 'Sky-Watcher',
     type: 'refractor',
     price: 549,
-    image: '/src/assets/telescopios/Sky-Watcher Evostar 80ED.webp',
+    image: '/assets/telescopios/Sky-Watcher Evostar 80ED.webp',
     description: 'Refractor apocromático de alta calidad con lente ED para astrofotografía premium.',
     specifications: {
       aperture: '80mm',
@@ -143,7 +143,7 @@ export const products: Product[] = [
     type: 'compound',
     price: 1299,
     originalPrice: 1499,
-    image: '/src/assets/telescopios/Meade LX85 8 ACF.jpg',
+    image: '/assets/telescopios/Meade LX85 8 ACF.jpg',
     description: 'Telescopio Schmidt-Cassegrain avanzado con corrector de coma para astrofotografía profesional.',
     specifications: {
       aperture: '203mm',
@@ -162,7 +162,7 @@ export const products: Product[] = [
     brand: 'Celestron',
     type: 'reflector',
     price: 249,
-    image: '/src/assets/telescopios/Celestron AstroMaster 130EQ.jpg',
+    image: '/assets/telescopios/Celestron AstroMaster 130EQ.jpg',
     description: 'Telescopio reflector newtoniano con montura ecuatorial, excelente para observación de espacio profundo.',
     specifications: {
       aperture: '130mm',
@@ -181,7 +181,7 @@ export const products: Product[] = [
     brand: 'Orion',
     type: 'reflector',
     price: 649,
-    image: '/src/assets/telescopios/Orion SkyQuest XT10.jpg',
+    image: '/assets/telescopios/Orion SkyQuest XT10.jpg',
     description: 'Telescopio Dobsoniano de 10" para observación avanzada de objetos de espacio profundo.',
     specifications: {
       aperture: '254mm',
@@ -200,7 +200,7 @@ export const products: Product[] = [
     brand: 'Sky-Watcher',
     type: 'compound',
     price: 399,
-    image: '/src/assets/telescopios/Sky-Watcher Maksutov 127.jpg',
+    image: '/assets/telescopios/Sky-Watcher Maksutov 127.jpg',
     description: 'Telescopio Maksutov-Cassegrain compacto, ideal para observación planetaria de alta resolución.',
     specifications: {
       aperture: '127mm',
@@ -220,7 +220,7 @@ export const products: Product[] = [
     type: 'compound',
     price: 1899,
     originalPrice: 2199,
-    image: '/src/assets/telescopios/Celestron EdgeHD 9.25.jpg',
+    image: '/assets/telescopios/Celestron EdgeHD 9.25.jpg',
     description: 'Telescopio Schmidt-Cassegrain de alta gama con óptica EdgeHD para astrofotografía profesional.',
     specifications: {
       aperture: '235mm',
@@ -241,7 +241,7 @@ export const products: Product[] = [
     brand: 'Celestron',
     type: 'accessory',
     price: 79,
-    image: '/src/assets/telescopios/Ocular Celestron X-Cel LX 25mm.jpg',
+    image: '/assets/telescopios/Ocular Celestron X-Cel LX 25mm.jpg',
     description: 'Ocular premium de 25mm con diseño de 6 elementos para vistas nítidas.',
     specifications: {
       focalLength: '25mm',
@@ -259,7 +259,7 @@ export const products: Product[] = [
     brand: 'Orion',
     type: 'accessory',
     price: 129,
-    image: '/src/assets/telescopios/Filtro UHC Orion.jpg',
+    image: '/assets/telescopios/Filtro UHC Orion.jpg',
     description: 'Filtro de nebulosas UHC para mejorar el contraste en observación de espacio profundo.',
     specifications: {
       'Tipo': 'Nebular',
@@ -277,7 +277,7 @@ export const products: Product[] = [
     brand: 'Celestron',
     type: 'accessory',
     price: 45,
-    image: '/src/assets/telescopios/Buscador Red Dot Celestron.webp',
+    image: '/assets/telescopios/Buscador Red Dot Celestron.webp',
     description: 'Buscador de punto rojo para localización rápida y precisa de objetos celestes.',
     specifications: {
       'Tipo': 'Red Dot',
@@ -295,7 +295,7 @@ export const products: Product[] = [
     brand: 'Sky-Watcher',
     type: 'accessory',
     price: 35,
-    image: '/src/assets/telescopios/Ocular Plossl 10mm Sky-Watcher.jpg',
+    image: '/assets/telescopios/Ocular Plossl 10mm Sky-Watcher.jpg',
     description: 'Ocular Plossl de 10mm con excelente calidad óptica para observación planetaria.',
     specifications: {
       focalLength: '10mm',
@@ -313,7 +313,7 @@ export const products: Product[] = [
     brand: 'Baader',
     type: 'accessory',
     price: 89,
-    image: '/src/assets/telescopios/Filtro Solar Baader.webp',
+    image: '/assets/telescopios/Filtro Solar Baader.webp',
     description: 'Filtro solar de densidad neutra para observación segura del Sol.',
     specifications: {
       'Densidad': 'ND 5.0',
@@ -331,7 +331,7 @@ export const products: Product[] = [
     brand: 'Sky-Watcher',
     type: 'accessory',
     price: 699,
-    image: '/src/assets/telescopios/Montura EQ5 Pro Sky-Watcher.jpg',
+    image: '/assets/telescopios/Montura EQ5 Pro Sky-Watcher.jpg',
     description: 'Montura ecuatorial computarizada con GoTo para astrofotografía avanzada.',
     specifications: {
       'Capacidad': '20kg',
@@ -349,7 +349,7 @@ export const products: Product[] = [
     brand: 'ZWO',
     type: 'accessory',
     price: 199,
-    image: '/src/assets/telescopios/Cámara Planetaria ZWO ASI120MC.avif',
+    image: '/assets/telescopios/Cámara Planetaria ZWO ASI120MC.avif',
     description: 'Cámara CMOS para astrofotografía planetaria y lunar de alta resolución.',
     specifications: {
       'Sensor': 'CMOS 1/3"',
@@ -367,7 +367,7 @@ export const products: Product[] = [
     brand: 'Celestron',
     type: 'accessory',
     price: 149,
-    image: '/src/assets/telescopios/Ocular Zoom Celestron 8-24mm.jpg',
+    image: '/assets/telescopios/Ocular Zoom Celestron 8-24mm.jpg',
     description: 'Ocular zoom versátil que reemplaza múltiples oculares fijos.',
     specifications: {
       'Rango focal': '8-24mm',
