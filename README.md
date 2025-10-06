@@ -9,7 +9,7 @@ Este proyecto es una remasterización de una versión anterior con el mismo nomb
   <h3>🚀 AstroShop</h3>
   <p>E-Commerce moderno y completo desarrollado con mucho amor y dedicacion.</p>
 
-  <a href="https://eclipse-commerce-r3vh.bolt.host" target="_blank">
+  <a href="https://astro14shop.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Demo_Live-FF6B6B?style=for-the-badge" alt="Demo Live" />
   </a>
 </div>
